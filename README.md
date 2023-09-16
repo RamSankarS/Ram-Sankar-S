@@ -18,10 +18,6 @@ Machine learning is my current fascination. I'm still navigating the complexitie
 
 When I'm not immersed in code or data, I'm exploring virtual worlds through video games. Gaming is not just a pastime; it's another realm of learning and strategy. Have any game recommendations for a fellow explorer?
 
-## 💪 Fitness Journey
-
-The gym is where I work on discipline, both in code and in life. I'm on a fitness journey that parallels my coding journey—both involve persistence, small wins, and a vision for continuous improvement.
-
 ## 🌟 Let's Learn Together
 
 I firmly believe that the most exciting discoveries happen when we learn together. Whether you're a fellow learner or an experienced pro, let's connect, share knowledge, and inspire each other on this incredible journey.
