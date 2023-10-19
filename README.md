@@ -6,3 +6,6 @@ I'm Ram Sankar, a Computer Science undergraduate who's majoring in data science.
 <div align="center">
   <img decoding="async" loading="lazy" src="https://streak-stats.demolab.com?user=RamSankarS&count_private=true&theme=dark&border_radius=20" alt="GitHubStats">
 </div>
+<hr>
+
+[![An image of @ramsankars's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ramsankars)](https://holopin.io/@ramsankars)
